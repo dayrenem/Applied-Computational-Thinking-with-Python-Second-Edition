@@ -1,7 +1,7 @@
 import pandas as pd
 
 myDictionary = {
-    'Name' : 'Miguel',
+    'Name' : 'Deborah',
     'Number' : 42,
     'Age' : 'unknown'
     }
